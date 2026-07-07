@@ -47,8 +47,9 @@ nav{
   align-items:center;
   z-index:10;
   background:rgba(0,0,0,.35);
-  backdrop-filter:blur(12px);
-}
+  backdrop-filter
+
+
 
 .logo img{
   width:150px;
