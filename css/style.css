@@ -208,4 +208,29 @@ section h2{
 
 section{
   min-height:auto;
+}#galeri{
+  position: relative;
+  z-index: 20;
+  background: #080808;
+  padding-top: 120px;
+}
+
+#galeri{
+  position: relative;
+  z-index: 20;
+  background: #080808 !important;
+  padding-top: 120px;
+}.hero-video,
+.overlay{
+  pointer-events:none;
+}
+
+.gallery{
+  position:relative;
+  z-index:25;
+}
+
+.cards{
+  position:relative;
+  z-index:25;
 }
